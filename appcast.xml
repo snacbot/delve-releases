@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Delve</title>
+    <link>https://github.com/snacbot/delve-releases</link>
+    <description>Delve macOS disk usage visualizer — release feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.3.0</title>
+      <pubDate>Fri, 15 May 2026 21:12:41 +0000</pubDate>
+      <sparkle:version>202605151611</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/snacbot/delve-releases/releases/download/v0.3.0/Delve-0.3.0.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="Q/EpRqIGCGRoFC7vqez6IqxOURKdoLWJHvuMRHPi6iCSGbPzdrrqKDFKlZM+A6jWFsI9p8lS1P6FFkYe/ppoBg==" length="4910931" />
+    </item>
+  </channel>
+</rss>
