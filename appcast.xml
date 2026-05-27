@@ -6,6 +6,17 @@
     <description>Delve macOS disk usage visualizer — release feed</description>
     <language>en</language>
     <item>
+      <title>Version 0.8.4</title>
+      <pubDate>Wed, 27 May 2026 06:09:06 +0000</pubDate>
+      <sparkle:version>202605270107</sparkle:version>
+      <sparkle:shortVersionString>0.8.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/snacbot/delve-releases/releases/download/v0.8.4/Delve-0.8.4.dmg"
+        type="application/x-apple-diskimage"
+        sparkle:edSignature="GQcGr2WTsUe3shypObM6HAQUyf/RFLtDuC+E2gr1r/zeM9IP6iJuAPI3vkarNMJi2kO/Rqyoi8wzNr9efkD3DQ==" length="2186249" />
+    </item>
+    <item>
       <title>Version 0.8.3</title>
       <pubDate>Mon, 25 May 2026 17:17:05 +0000</pubDate>
       <sparkle:version>202605251215</sparkle:version>
