@@ -7,6 +7,17 @@
     <language>en</language>
     <item>
       <title>Version 0.9.0</title>
+      <pubDate>Sat, 19 Sep 2026 03:23:13 +0000</pubDate>
+      <sparkle:version>202609182221</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/snacbot/delve-releases/releases/download/v0.9.0/Delve-0.9.0.dmg"
+        type="application/x-apple-diskimage"
+        sparkle:edSignature="CW0l6ilkyFj4cfNOZjILtXXoRwnGi63f5AXuVRf1ZTk/pLSZfSWAHzBiWcR5DDtg2iNquP/46rWNlWh8aNtzCA==" length="3579897" />
+    </item>
+    <item>
+      <title>Version 0.9.0</title>
       <pubDate>Sat, 19 Sep 2026 03:20:33 +0000</pubDate>
       <sparkle:version>202609182218</sparkle:version>
       <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
