@@ -8,7 +8,7 @@
 
 [![Latest release](https://img.shields.io/github/v/release/snacbot/delve-releases?style=flat-square&label=latest&color=66d4cf&labelColor=0b0c0c)](https://github.com/snacbot/delve-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/snacbot/delve-releases/total?style=flat-square&label=downloads&color=66d4cf&labelColor=0b0c0c)](https://github.com/snacbot/delve-releases/releases)
-[![macOS 26+](https://img.shields.io/badge/macOS-26%2B-f5f5f7?style=flat-square&labelColor=0b0c0c)](https://khaosstudio.com/delve/specs/)
+[![macOS 12+](https://img.shields.io/badge/macOS-12%2B-f5f5f7?style=flat-square&labelColor=0b0c0c)](https://khaosstudio.com/delve/specs/)
 [![Apple Silicon](https://img.shields.io/badge/Apple_Silicon-native-f5f5f7?style=flat-square&labelColor=0b0c0c)](https://khaosstudio.com/delve/specs/)
 [![$4.99 once](https://img.shields.io/badge/%244.99-once,_14--day_trial-d9a23a?style=flat-square&labelColor=0b0c0c)](https://khaosstudio.com/delve/pricing/)
 
@@ -48,7 +48,7 @@ brew install --cask snacbot/tap/delve
 2. Open the DMG and drag **Delve** into your **Applications** folder.
 3. Launch it. Delve is signed and notarized by Apple, so it opens without a Gatekeeper warning.
 
-Requires **macOS 26 or later** on Apple Silicon. Free for 14 days, then $4.99 once, updates included forever. See [pricing](https://khaosstudio.com/delve/pricing/) or the [full specs](https://khaosstudio.com/delve/specs/).
+Delve requires **macOS 12 Monterey or later** on Apple Silicon. If your macOS version is outside [Homebrew’s supported versions](https://docs.brew.sh/Installation), use the direct DMG above. Free for 14 days, then $4.99 once, updates included forever. See [pricing](https://khaosstudio.com/delve/pricing/) or the [full specs](https://khaosstudio.com/delve/specs/).
 
 ## What's in it
 
